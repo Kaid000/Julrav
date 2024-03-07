@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Julrav/static/css/main.aed1ff94.css",
+    "main.js": "/Julrav/static/js/main.ee9902ec.js",
+    "static/js/787.89da6538.chunk.js": "/Julrav/static/js/787.89da6538.chunk.js",
+    "static/media/home-bg.jpg": "/Julrav/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/Julrav/static/media/logo.6de0dc75a5f2fabfde5a.png",
+    "static/media/pre.svg": "/Julrav/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/Julrav/index.html",
+    "main.aed1ff94.css.map": "/Julrav/static/css/main.aed1ff94.css.map",
+    "main.ee9902ec.js.map": "/Julrav/static/js/main.ee9902ec.js.map",
+    "787.89da6538.chunk.js.map": "/Julrav/static/js/787.89da6538.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aed1ff94.css",
+    "static/js/main.ee9902ec.js"
+  ]
+}
